@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+/VkConsole/.vs/VkConsole/v15
