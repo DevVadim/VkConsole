@@ -115,18 +115,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\src\api.cpp" />
-    <ClCompile Include="..\src\attachment.cpp" />
-    <ClCompile Include="..\src\messages.cpp" />
     <ClCompile Include="consolealgorithm.cpp" />
     <ClCompile Include="consoleapp.cpp" />
+    <ClCompile Include="VkMaster\api.cpp" />
+    <ClCompile Include="VkMaster\attachment.cpp" />
+    <ClCompile Include="VkMaster\messages.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\src\api.h" />
-    <ClInclude Include="..\src\attachment.h" />
-    <ClInclude Include="..\src\json.hpp" />
-    <ClInclude Include="..\src\messages.h" />
     <ClInclude Include="consolealgorithm.h" />
+    <ClInclude Include="VkMaster\api.h" />
+    <ClInclude Include="VkMaster\attachment.h" />
+    <ClInclude Include="VkMaster\json.hpp" />
+    <ClInclude Include="VkMaster\messages.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

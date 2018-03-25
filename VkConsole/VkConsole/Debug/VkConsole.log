@@ -1,0 +1,7 @@
+﻿  messages.cpp
+  attachment.cpp
+  api.cpp
+d:\vs2017\vkconsole\vkconsole\vkconsole\vkmaster\api.cpp(1): fatal error C1083: Не удается открыть файл включение: curl/curl.h: No such file or directory,
+  consoleapp.cpp
+  consolealgorithm.cpp
+  Создание кода...
